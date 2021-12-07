@@ -1,0 +1,26 @@
+{
+  "name": "ctek",
+  "version": "1.0.0",
+  "description": "Application POS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yopialmaliki/ctek.git"
+  },
+  "keywords": [
+    "POS"
+  ],
+  "author": "Yopi Almaliki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yopialmaliki/ctek/issues"
+  },
+  "homepage": "https://github.com/yopialmaliki/ctek#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "validator": "^13.7.0"
+  }
+}
